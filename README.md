@@ -13,7 +13,7 @@ examples are linear classifers, support vector machine, decision trees
 examples are linear regression and logistic regression are common regression algorithm
 
 Unsupervise learing: It uses a unlabel data: mlalgorithm are not really given any label at alland these algorithm discover hidden pattern in data without need for human invention.
-examples are clustering,association,dimensionallty reduction
-clustering-customer segmentation -Like similarties age, location, 
+Examples : clustering,association,dimensionallty reduction
+Clustering-customer segmentation -Like similarties age, location, 
 Association - this algorithm looks for relationship between the variable in data- market basket analysis- which items should brought together
-dimensional reduction -the algorithm reduces the no of variables in data still preserving as much of infomationa as posssible. autoencode removes the noise from visual image to improve picture quality
+Dimensional reduction -the algorithm reduces the no of variables in data still preserving as much of infomationa as posssible. autoencode removes the noise from visual image to improve picture quality
