@@ -6,7 +6,8 @@ Generative AI
 
 
 Supervised learning:It uses a label input and output data.ML algorithm are trained on labeled datasets
-It divides in to two 1) classification talk about output is a discrete class label like spam or not spam
+It divides in to two 
+1) classification talk about output is a discrete class label like spam or not spam
 examples are linear classifers, support vector machine, decision trees
 2) Regression: the out put is a continous value such as price or probability.
 examples are linear regression and logistic regression are common regression algorithm
