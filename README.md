@@ -28,3 +28,12 @@ semi-supervised learning:training data set  with both labeled and unlabeled data
 ideal for medical images, where small amount of training data could lead to significant improvement in accuracy.
 
 Example: Radiologist can look at and label aome small subset of CT scan for tumor ofr diseases and then machine can more accuretlu predict which patient required more attention with out going through and labeling the entire set.
+
+what is PIP
+PIP is a package manager for python packages and modules, we install ,remove and list packages in python using pip
+
+what is steamlit
+It is a free and open source framework to rapidly build and share ML and Data Science webapp. It is a python based library specifically designed for ML Engineers
+
+What is conda-forge
+conda-forge is community effort that provides conda packages for wide range of software
